@@ -37,9 +37,3 @@
 
 
 <!-- Dark theme style suggestion -->
-<style>
-  body {
-    background-color: #212121;
-    color: #fafafa;
-  }
-</style>
