@@ -35,9 +35,6 @@
 
 <h3 align="center">Let’s code, create, and solve problems the optimal way!</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NITP23/NITP23/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
 
 <!-- Dark theme style suggestion -->
 <style>
